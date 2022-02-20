@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ic_app.png</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>initial_database.db</file>
+    </qresource>
+</RCC>

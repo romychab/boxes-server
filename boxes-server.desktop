@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Boxes Server
+Exec=boxes-server
+Icon=ic_app
+Type=Application
+Categories=Utility;

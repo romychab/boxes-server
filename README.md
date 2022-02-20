@@ -7,8 +7,8 @@ This is a desktop application for Windows 10 (x64) and Linux (x64) which can be 
 In order to interact with the database you need to use HTTP requests.
 
 Binaries can be downloaded here:
-- for Windows 10 (64bit)
-- for Linux (Ubuntu 20.04, 64bit)
+- for [Windows 10 (64bit)](https://github.com/romychab/boxes-server/releases/download/v0.1/boxes-server-windows-64.exe)
+- for [Linux (Ubuntu 20.04, 64bit)](https://github.com/romychab/boxes-server/releases/download/v0.1/boxes-server-linux-64.AppImage)
 - If you have another OS or 32bit Windows/Linux -> you can download and compile these sources. You need to install Qt 6 in order to compile the application.
 
 How to use:

@@ -64,9 +64,11 @@ Now you can modify the displayed content with HTTP requests:
 - Get boxes list:
   
   ```
-  GET /boxes
+  GET /boxes[?active=true|false]
   Authorization: {token}
   ```
+
+  `active` - optional request argument (boolean)
   
 - Get box by ID:
   
